@@ -9,7 +9,6 @@
   line-height: 100px; /* 104.167% */
   padding: 0;
   margin: 0 auto 32px;
-  max-width: 720px;
 }
 
 @media screen and (max-width: 767px) {
