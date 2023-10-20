@@ -7,14 +7,9 @@
   gap: 12px;
 }
 
-@media screen and (max-width: 1023px) {
-  .places__website {
-    gap: 12px;
-  }
-}
-
 @media screen and (max-width: 767px) {
   .places__website {
     align-self: start;
+    padding: 0 16px;
   }
 }
