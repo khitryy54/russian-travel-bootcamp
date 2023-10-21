@@ -3,9 +3,10 @@
   margin: 0 auto;
   background-image: url(../../images/cover-trains.jpg);
   width: 92.5%;
-  min-height: calc(92.5vw * 1280/2048);
+  min-height: 740px;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   position: relative;
   display: flex;
   justify-content: center;
